@@ -1,7 +1,7 @@
 !
 ! Title: AdsBlocking
 ! Description: List for blocking pesky ads, trackers, and malware. 
-! Version: 1.0.1
+! Version: 1.0.2
 ! Last modified: 2025-11-06T15:08:31.804Z
 !
 
@@ -28,4 +28,3 @@
 ||ads-api.twitter.com^
 ||analytics.pinterest.com^
 ||logging.googleapis.com^
-||youtubei.googleapis.com^
