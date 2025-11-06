@@ -1,0 +1,26 @@
+!
+! Title: AdsBlocking
+! Description: List for blocking pesky ads, trackers, and malware. 
+! Version: 1.0.0
+! Last modified: 2025-11-06T15:08:31.804Z
+!
+
+||ads-sg.tiktok.com^
+||business-api.tiktok.com^
+||ads.tiktok.com^
+||udcm.yahoo.com^
+||partnerads.ysm.yahoo.com^
+||log.fc.yahoo.com^
+||gemini.yahoo.com^
+||appmetrica.yandex.ru^
+||metrika.yandex.ru^
+||analytics.pinterest.com^
+||redirector.googlevideo.com^
+||youtubei.googleapis.com^
+||api.raygun.com^
+||trace.googleapis.com^
+||errorreporting.googleapis.com^
+||graph.instagram.com^
+||connect.facebook.net^
+||graph.facebook.com^
+||ngfts.lge.com^
